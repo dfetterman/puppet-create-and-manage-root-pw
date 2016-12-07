@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Was working on formatting
+# Don't use this as it is, currently just calculates the checksum of the password, not a valid SHA-512 pw hash.
+
 while read pw hostname; do
 #  echo $pw
   hierakey=$(echo "rootpw::"$hostname": >")
