@@ -1,0 +1,2 @@
+thisIsAclearTextPasswordValue myhostname1
+thisIsAnotherClearTextPasswordValue myhostname2
